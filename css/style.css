@@ -224,6 +224,31 @@ div, h1, h2, h3, p {
     
 }
 
+/*************************
+   Week 09-12: JavaScript
+***************************/
+
+#week-nine-to-twelve {
+    background-color: rgb(135, 226, 228);
+    width: 29%;
+    height: 615px;
+    margin: 10px 10px 0px 60px;
+    padding: 40px;
+    float: left;
+    border-radius: 15px;
+    box-sizing: border-box;
+
+}
+
+#topic-javascript {
+    background-color: rgb(231, 238, 186);
+    width: 64%;
+    height: 615px;
+    margin: 10px 10px 0px 25px;
+    padding: 40px 40px 40px 200px;
+    float: left;
+    border-radius: 15px;
+    box-sizing: border-box;
 
 /************************
     NODE.JS
