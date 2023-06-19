@@ -165,6 +165,64 @@ div, h1, h2, h3, p {
     box-sizing: border-box;
 }
 
+/**************************
+    Topic- GRID
+***************************/
+
+#sixth-week {
+    background-color: rgb(135, 226, 228);
+    width: 29%;
+    height: 315px;
+    margin: 10px 10px 0px 60px;
+    padding: 40px;
+    float: left;
+    border-radius: 15px;
+    box-sizing: border-box;
+
+}
+
+#topic-grid {
+    background-color: rgb(231, 238, 186);
+    width: 64%;
+    height: 315px;
+    margin: 10px 10px 0px 25px;
+    padding: 40px 40px 40px 200px;
+    float: left;
+    border-radius: 15px;
+    box-sizing: border-box;
+
+
+}
+
+/*************************************
+    WEEK - 07 & 08 : BOOTSTRAP & REVISITING
+**************************************/
+
+#week-seven-and-eight {
+    background-color: rgb(135, 226, 228);
+    width: 29%;
+    height: 315px;
+    margin: 10px 10px 0px 60px;
+    padding: 40px;
+    float: left;
+    border-radius: 15px;
+    box-sizing: border-box;
+
+}
+
+#topic-bootstrap {
+        background-color: rgb(231, 238, 186);
+        width: 64%;
+        height: 315px;
+        margin: 10px 10px 0px 25px;
+        padding: 40px 40px 40px 200px;
+        float: left;
+        border-radius: 15px;
+        box-sizing: border-box;
+    
+    
+    
+}
 
 
 /************************
