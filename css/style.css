@@ -107,7 +107,63 @@ div, h1, h2, h3, p {
     border-radius: 15px;
     box-sizing: border-box;
   }
+ 
+  /*************************
+       TOPIC - CSS
+  **************************/
 
+  #third-and-fourth-weeks {
+
+    background-color: rgb(118, 217, 242);
+    width: 29%;
+    height: 355px;
+    margin: 10px 10px 0px 60px;
+    padding: 40px;
+    float: left;
+    border-radius: 15px;
+    box-sizing: border-box;
+
+  }
+
+  #topic-css3 {
+
+    background-color: rgb(156, 239, 163);
+    width: 64%;
+    height: 355px;
+    margin: 10px 10px 0px 25px;
+    padding: 40px 40px 40px 200px;
+    float: left;
+    border-radius: 15px;
+    box-sizing: border-box;
+
+
+  }
+
+  /**********************
+    Week - 05: FlexBox
+   **********************/
+#fifth-week {
+    background-color: rgb(236, 213, 204);
+    width: 29%;
+    height: 315px;
+    margin: 10px 10px 0px 60px;
+    padding: 40px;
+    float: left;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+#topic-flexbox {
+
+    background-color: rgb(241, 216, 238);
+    width: 64%;
+    height: 315px;
+    margin: 10px 10px 0px 25px;
+    padding: 40px 40px 40px 200px;
+    float: left;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
 
 
 
