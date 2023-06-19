@@ -107,6 +107,29 @@ div, h1, h2, h3, p {
     border-radius: 15px;
     box-sizing: border-box;
   }
+
+  #first-two-weeks-bonus {
+    background-color: rgb(77, 205, 169);
+    width: 29%;
+    height: 320px;
+    margin: 10px 10px 0px 60px;
+    padding: 40px;
+    float: left;
+    border-radius: 15px;
+    box-sizing: border-box;
+
+  }
+
+  #topic-git-and-github {
+        background-color: rgb(230, 197, 224);
+        width: 64%;
+        height: 320px;
+        margin: 10px 10px 0px 25px;
+        padding: 40px 40px 40px 200px;
+        float: left;
+        border-radius: 15px;
+        box-sizing: border-box;
+  }
  
   /*************************
        TOPIC - CSS
@@ -250,6 +273,22 @@ div, h1, h2, h3, p {
     border-radius: 15px;
     box-sizing: border-box;
 
+}
+
+/************************
+    REACT.JS
+*************************/
+
+#react-js {
+    background-color: rgb(240, 97, 178);
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+
+}
+
+
 /************************
     NODE.JS
 *************************/
@@ -258,6 +297,7 @@ div, h1, h2, h3, p {
     background-color: lightgreen;
     width: 100%;
     margin: 50px;
-    padding: 25px;
+    padding: 50px;
+    border-radius: 15px;
 
 }
