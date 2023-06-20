@@ -1,2 +1,2 @@
-# complete-web-development-syllabus-with-html-and-css
+# A-Full-Stack-Web-Development-Journey-2024
 A Complete Syllabus for Web Development Journey
