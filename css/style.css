@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    
 }
 
 div, h1, h2, h3, p {
@@ -20,11 +21,22 @@ div, h1, h2, h3, p {
     
 }
 
+#heading:hover {
+    background-color: rgb(7, 3, 7);
+    color: rgb(251, 249, 254);
+    height: 160px;
+    width: 100%;
+    text-align: center;
+    
+}
+
 #main-headline {
     margin-top: 30px;
-    padding: 20px 0px 20px 0px;
-    background-color: yellow;
-    font-size: 50px;
+    padding: 30px 0px 20px 0px;
+    background-color: CBEDD5;
+    font-size: 55px;
+    font-weight: bolder;
+    position: relative;
     
 }
 
@@ -34,6 +46,17 @@ div, h1, h2, h3, p {
     background-color: pink;
     font-size: 30px;
     color: rgb(16, 17, 17);
+    
+}
+
+#sub-headline:hover {
+    height: 60px;
+    margin-top: 10px 0 10px 0;
+    padding: 10px 0px 10px 0px;
+    background-color: rgb(251, 169, 4);
+    color: crimson;
+    font-size: 40px;
+    
     
 }
 
@@ -62,7 +85,7 @@ div, h1, h2, h3, p {
 
 }
 #course-fees {
-    background-color: rgb(239, 125, 140);
+    background-color: rgb(113, 244, 191);
     color: black;
     text-align: left;
     width: 27%;
@@ -222,7 +245,7 @@ div, h1, h2, h3, p {
 **************************************/
 
 #week-seven-and-eight {
-    background-color: rgb(135, 226, 228);
+    background-color: rgb(190, 235, 201);
     width: 29%;
     height: 315px;
     margin: 10px 10px 0px 60px;
@@ -234,7 +257,7 @@ div, h1, h2, h3, p {
 }
 
 #topic-bootstrap {
-        background-color: rgb(231, 238, 186);
+        background-color: rgb(186, 214, 238);
         width: 64%;
         height: 315px;
         margin: 10px 10px 0px 25px;
@@ -252,7 +275,7 @@ div, h1, h2, h3, p {
 ***************************/
 
 #week-nine-to-twelve {
-    background-color: rgb(135, 226, 228);
+    background-color: rgb(125, 244, 246);
     width: 29%;
     height: 615px;
     margin: 10px 10px 0px 60px;
@@ -264,7 +287,7 @@ div, h1, h2, h3, p {
 }
 
 #topic-javascript {
-    background-color: rgb(231, 238, 186);
+    background-color: rgb(246, 236, 169);
     width: 64%;
     height: 615px;
     margin: 10px 10px 0px 25px;
@@ -280,7 +303,7 @@ div, h1, h2, h3, p {
 *************************/
 
 #react-js {
-    background-color: rgb(240, 97, 178);
+    background-color: rgb(251, 217, 236);
     width: 100%;
     margin: 50px;
     padding: 50px;
@@ -301,3 +324,124 @@ div, h1, h2, h3, p {
     border-radius: 15px;
 
 }
+
+/***************************
+    Express Js
+    ************************/
+#express-js {
+    background-color: rgb(202, 222, 232);
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+
+}
+
+/*********************************
+    Application program interface
+**********************************/
+    #aplication-program-interface {
+        background-color: rgb(242, 229, 242);
+        width: 100%;
+        margin: 50px;
+        padding: 50px;
+        border-radius: 15px;
+    
+    }
+
+    /*********************************
+        Building RestFul API
+**********************************/
+#building-api {
+    background-color: rgb(244, 164, 248);
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+
+}
+
+
+/*********************************
+        Building RestFul API
+**********************************/
+#ejs {
+    background-color: rgb(190, 235, 201);
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+
+}
+
+/*********************************
+        Building RestFul API
+**********************************/
+#database {
+    background-color: rgb(140, 247, 166);
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+
+}
+
+/*********************************
+        SQL DATABASE
+**********************************/
+#sql-database {
+    background-color: rgb(190, 235, 201);
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+
+}
+
+
+/*********************************
+        NOSQL DATABASEs
+**********************************/
+#nosql-databases {
+    background-color: rgb(246, 224, 218);
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+
+}
+
+/*********************************
+        DEPLOYMENTS
+**********************************/
+#deployment {
+    background-color: rgb(243, 108, 108);
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+
+}
+
+/*********************************
+        AUTHENTICATION
+**********************************/
+#authentication {
+    background-color: rgb(39, 196, 239);
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+
+}
+
+#web-footer {
+    background-color: lightgreen;
+    width: 100%;
+    height: 300px;
+}
+
+
+
+
+
